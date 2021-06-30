@@ -1,3 +1,7 @@
+"pip3 install opencv-python"
+"pip3 install seaborn"
+"pip3 install matplotlib"
+"pip3 install numpy"
 import cv2
 import numpy as np
 import seaborn as sns
